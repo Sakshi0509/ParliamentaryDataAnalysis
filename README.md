@@ -1,4 +1,4 @@
-# Invest India
+# Data Analysis
 Clone this repository ,move to the folder InvestIndia and execute the following commands in the terminal:
 1. pip install selenium
 2. pip install webdriver_manager
